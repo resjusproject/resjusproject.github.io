@@ -1,0 +1,20 @@
+body {
+	background: #AD3131;
+	color: black;
+	font: MS Gothic 16px;
+}
+
+#content {
+	width: 500px;
+	min-height: 1200px;
+	border: 1px solid black;
+	background: white;
+	margin: auto;
+	padding: 50px;
+	text-align: justify;
+	line-height: 2.5em;
+}
+
+h1, h2 {
+	text-align: center;
+}
